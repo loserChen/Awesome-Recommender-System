@@ -26,4 +26,15 @@
 - (TOIS2017)Version-Aware Rating Prediction for Mobile App Recommendation
 - (AAAI2020)Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation
 
+### CTR Prediction
+- Deep & Cross Network for Ad Click Predictions
+- Deep interest network for click-through rate prediction
+- Deep Session Interest Network for Click-Through Rate Prediction
+- Practical Lessons from Predicting Clicks on Ads at Facebook
+- Sequential Click Prediction for Sponsored Search with Recurrent Neural Networks
+- Warm Up Cold-start Advertisements: Improving CTR Predictions via Learning to Learn ID Embeddings
+- Real-time Personalization using Embeddings for Search Ranking at Airbnb
+- FiBiNET: Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction
+- HoAFM: A High-order Attentive Factorization Machine for CTR Prediction
+
 
