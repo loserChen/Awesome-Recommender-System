@@ -25,6 +25,7 @@
 ### Deep Learning based Recommender System:
 - (TOIS2017)Version-Aware Rating Prediction for Mobile App Recommendation
 - (AAAI2020)Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation
+- Multi-Interest Network with Dynamic Routing for Recommendation at Tmall
 
 ### CTR Prediction
 - Deep & Cross Network for Ad Click Predictions
