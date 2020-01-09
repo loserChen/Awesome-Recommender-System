@@ -13,6 +13,7 @@
 - (SIGIR2019)A Long-Short Demands-Aware Model for Next-Item Recommendation
 - (CIKM2019)Session-Based Social Recommendation via Dynamic Graph Attention Networks
 - (WSDM2019)Taxonomy-Aware Multi-Hop Reasoning Networks for Sequential Recommendation
+- (KDD2019)Dual Sequential Prediction Models Linking Sequential Recommendation and Information Dissemination
 - (WSDM2020)Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling
 ### Network Embedding for RecSys:
 - (WWW2019)Collaborative Similarity Embedding for Recommender Systems
