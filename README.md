@@ -15,6 +15,7 @@
 - (WSDM2019)Taxonomy-Aware Multi-Hop Reasoning Networks for Sequential Recommendation
 - (KDD2019)Dual Sequential Prediction Models Linking Sequential Recommendation and Information Dissemination
 - (WSDM2020)Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling
+- (PAKDD2019)A Novel Hybrid Sequential Model for Review-Based Rating Prediction
 ### Network Embedding for RecSys:
 - (WWW2019)Collaborative Similarity Embedding for Recommender Systems
 - (TKDE2019)Heterogeneous Information Network Embedding for Recommendation
