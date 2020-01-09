@@ -9,6 +9,7 @@
 - (WWW2019)Revisiting User Mobility and Social Relationships in LBSNs: A Hypergraph Embedding Approach
 - (ICDE2019)A Joint Context-Aware Embedding for Trip Recommendations
 ### Sequential Recommender System:
+- (WSDM2017)Recurrent Recommender Networks
 - (SIGIR2019)A Long-Short Demands-Aware Model for Next-Item Recommendation
 - (CIKM2019)Session-Based Social Recommendation via Dynamic Graph Attention Networks
 - (WSDM2019)Taxonomy-Aware Multi-Hop Reasoning Networks for Sequential Recommendation
