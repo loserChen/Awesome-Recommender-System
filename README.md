@@ -29,6 +29,7 @@
 - (TOIS2017)Version-Aware Rating Prediction for Mobile App Recommendation
 - (AAAI2020)Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation
 - Multi-Interest Network with Dynamic Routing for Recommendation at Tmall
+- (AAAI2020)Multi-Component Graph Convolutional Collaborative Filtering
 
 ### CTR Prediction
 - Deep & Cross Network for Ad Click Predictions
