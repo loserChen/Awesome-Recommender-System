@@ -16,6 +16,9 @@
 - (KDD2019)Dual Sequential Prediction Models Linking Sequential Recommendation and Information Dissemination
 - (WSDM2020)Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling
 - (PAKDD2019)A Novel Hybrid Sequential Model for Review-Based Rating Prediction
+- (AAAI2020)Memory Augmented Graph Neural Networks for Sequential Recommendation
+- (WWW2020)Beyond Clicks: Modeling Multi-Relational Item Graph for Session-based Target Behavior Prediction
+- (IS2019)GPS: Factorized group preference-based similarity models for sparse sequential recommendation
 ### Network Embedding for RecSys:
 - (WWW2019)Collaborative Similarity Embedding for Recommender Systems
 - (TKDE2019)Heterogeneous Information Network Embedding for Recommendation
