@@ -34,6 +34,7 @@
 - (AAAI2020)Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation
 - Multi-Interest Network with Dynamic Routing for Recommendation at Tmall
 - (AAAI2020)Multi-Component Graph Convolutional Collaborative Filtering
+- (IPM2020)Graph neural news recommendation with long-term and short-term interest modeling
 
 ### CTR Prediction
 - Deep & Cross Network for Ad Click Predictions
