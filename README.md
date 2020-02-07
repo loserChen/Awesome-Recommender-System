@@ -17,6 +17,7 @@
 - (WSDM2020)Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling
 - (PAKDD2019)A Novel Hybrid Sequential Model for Review-Based Rating Prediction
 - (IS2019)GPS: Factorized group preference-based similarity models for sparse sequential recommendation
+- (CIKM2019)CosRec: 2D Convolutional Neural Networks for Sequential Recommendation
 - (AAAI2020)Memory Augmented Graph Neural Networks for Sequential Recommendation
 - (WWW2020)Beyond Clicks: Modeling Multi-Relational Item Graph for Session-based Target Behavior Prediction
 - (WSDM2020)Time Interval Aware Self-Attention for Sequential Recommendation
