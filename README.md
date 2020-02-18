@@ -10,17 +10,21 @@
 - (ICDE2019)A Joint Context-Aware Embedding for Trip Recommendations
 ### Sequential Recommender System:
 - (WSDM2017)Recurrent Recommender Networks
+- (IJCAI2018)Sequential Recommender System based on Hierarchical Attention Network
 - (SIGIR2019)A Long-Short Demands-Aware Model for Next-Item Recommendation
 - (CIKM2019)Session-Based Social Recommendation via Dynamic Graph Attention Networks
 - (WSDM2019)Taxonomy-Aware Multi-Hop Reasoning Networks for Sequential Recommendation
+- (WSDM2019)Session-based Social Recommendation via Dynamic Graph Attention Networks
 - (KDD2019)Dual Sequential Prediction Models Linking Sequential Recommendation and Information Dissemination
 - (WSDM2020)Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling
 - (PAKDD2019)A Novel Hybrid Sequential Model for Review-Based Rating Prediction
 - (IS2019)GPS: Factorized group preference-based similarity models for sparse sequential recommendation
 - (CIKM2019)CosRec: 2D Convolutional Neural Networks for Sequential Recommendation
+- (IJCAI2019)Dynamic Item Block and Prediction Enhancing Block for Sequential Recommendation
 - (AAAI2020)Memory Augmented Graph Neural Networks for Sequential Recommendation
 - (WWW2020)Beyond Clicks: Modeling Multi-Relational Item Graph for Session-based Target Behavior Prediction
 - (WSDM2020)Time Interval Aware Self-Attention for Sequential Recommendation
+
 ### Network Embedding for RecSys:
 - (WWW2019)Collaborative Similarity Embedding for Recommender Systems
 - (TKDE2019)Heterogeneous Information Network Embedding for Recommendation
@@ -32,10 +36,13 @@
 
 ### Deep Learning based Recommender System:
 - (TOIS2017)Version-Aware Rating Prediction for Mobile App Recommendation
+- Rich-Item Recommendations for Rich-Users via GCNN: Exploiting Dynamic and Static Side Information
 - (AAAI2020)Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation
 - Multi-Interest Network with Dynamic Routing for Recommendation at Tmall
 - (AAAI2020)Multi-Component Graph Convolutional Collaborative Filtering
 - (IPM2020)Graph neural news recommendation with long-term and short-term interest modeling
+- (AAAI2020)Revisiting Graph based Collaborative Filtering : A Linear Residual Graph Convolutional Network Approach
+
 
 ### CTR Prediction
 - Deep & Cross Network for Ad Click Predictions
@@ -47,5 +54,7 @@
 - Real-time Personalization using Embeddings for Search Ranking at Airbnb
 - FiBiNET: Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction
 - HoAFM: A High-order Attentive Factorization Machine for CTR Prediction
+- (AAAI2020)Deep Time-Stream Framework for Click-Through Rate Prediction by Tracking Interest Evolution
+- (MM2019)Time-aware Session Embedding for Click-Through-Rate Prediction
 
 
