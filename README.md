@@ -11,6 +11,7 @@
 ### Sequential Recommender System:
 - (WSDM2017)Recurrent Recommender Networks
 - (IJCAI2018)Sequential Recommender System based on Hierarchical Attention Network
+- (ICDM2018)Self-Attentive Sequential Recommendation
 - (SIGIR2019)A Long-Short Demands-Aware Model for Next-Item Recommendation
 - (CIKM2019)Session-Based Social Recommendation via Dynamic Graph Attention Networks
 - (WSDM2019)Taxonomy-Aware Multi-Hop Reasoning Networks for Sequential Recommendation
