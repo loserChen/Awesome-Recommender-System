@@ -17,10 +17,13 @@
 - (WSDM2019)Session-based Social Recommendation via Dynamic Graph Attention Networks
 - (WWW2019)Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems
 - (KDD2019)Dual Sequential Prediction Models Linking Sequential Recommendation and Information Dissemination
+- (KDD2019)Hierarchical Gating Networks for Sequential Recommendation
+- (KDD2019)POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion
 - (PAKDD2019)A Novel Hybrid Sequential Model for Review-Based Rating Prediction
 - (IS2019)GPS: Factorized group preference-based similarity models for sparse sequential recommendation
 - (CIKM2019)CosRec: 2D Convolutional Neural Networks for Sequential Recommendation
 - (IJCAI2019)Dynamic Item Block and Prediction Enhancing Block for Sequential Recommendation
+- (IJCAI2019)Feature-level Deeper Self-Attention Network for Sequential Recommendation
 - (AAAI2020)Memory Augmented Graph Neural Networks for Sequential Recommendation
 - (WWW2020)Beyond Clicks: Modeling Multi-Relational Item Graph for Session-based Target Behavior Prediction
 - (WWW2020)Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation
