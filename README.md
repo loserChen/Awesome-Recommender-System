@@ -25,34 +25,71 @@
 - (CIKM2019)CosRec: 2D Convolutional Neural Networks for Sequential Recommendation
 - (IJCAI2019)Dynamic Item Block and Prediction Enhancing Block for Sequential Recommendation
 - (IJCAI2019)Feature-level Deeper Self-Attention Network for Sequential Recommendation
-- (AAAI2020)Memory Augmented Graph Neural Networks for Sequential Recommendation
 - (WWW2020)Beyond Clicks: Modeling Multi-Relational Item Graph for Session-based Target Behavior Prediction
 - (WWW2020)Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation
 - (WSDM2020)Time Interval Aware Self-Attention for Sequential Recommendation
 - (WSDM2020)Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling
 
-### Network Embedding for RecSys:
+### Graph-based Recommender System:
+- Rich-Item Recommendations for Rich-Users via GCNN: Exploiting Dynamic and Static Side Information
+- (KDD2018)Graph Convolutional Matrix Completion
 - (WWW2019)Collaborative Similarity Embedding for Recommender Systems
 - (TKDE2019)Heterogeneous Information Network Embedding for Recommendation
-### Top-N Recommender System :
+- (SIGIR2019)SocialGCN An Efficient Graph Convolutional Network
+- (SIGIR2019)Neural Graph Collaborative Filtering
+- (WSDM2019)Session-based Social Recommendation via Dynamic Graph Attention Networks
+- (AAAI2019)Explainable Reasoning over Knowledge Graphs for Recommendation
+- (WWW2019)Graph Neural Networks for Social Recommendation
+- (WWW2019)Unifying Knowledge Graph Learning and Recommendation Towards a Better Understanding of User Preferences
+- (KDD2019)KGAT Knowledge Graph Attention Network for Recommendation
+- (IJCAI2019)Unified Embedding Model over Heterogeneous Information Network for Personalized Recommendation
+- (AAAI2020)Multi-Component Graph Convolutional Collaborative Filtering
+- (IPM2020)Graph neural news recommendation with long-term and short-term interest modeling
+- (AAAI2020)Revisiting Graph based Collaborative Filtering : A Linear Residual Graph Convolutional Network Approach
+- (AAAI2020)Memory Augmented Graph Neural Networks for Sequential Recommendation
+- (WWW2020)Beyond Clicks: Modeling Multi-Relational Item Graph for Session-based Target Behavior Prediction
+
+### Review-based Recommender System:
+- (WSDM2017)Joint Deep Modeling of Users and Items Using Reviews for Recommendation
+- (CIKM2018)ANR:Aspect-based Neural Recommender
+- (KDD2018)Multi-Pointer Co-Attention Networks for Recommendation
+- (RecSys2018)Why I like it Multi-task Learning for Recommendation and Explanation
+- (WWW2018)Neural attentional rating regression with review-level explanations
+- (IJCAI2019)Co-Attentive Multi-Task Learning for Explainable Recommendation
+- (KDD2019)DAML Dual Attention Mutual Learning between Ratings and Reviews for recommendation
+- (NAACL-HIT2019)Hierarchical User and Item Representation with Three-Tier Attention for Recommendation
+- (RecSys2019)A Generative Model for Review-Based Recommendations
+- (UMAP2019)Justifying Recommendations through Aspect-based Sentiment Analysis of Users’ Reviews
+- (WWW2019)From Free-text User Reviews to Product Recommendation using Paragraph Vectors and Matrix Factorization
+- (SIGIR2019)NRPA: Neural Recommendation with Personalized Attention
+- (KDD2019)NPA: Neural News Recommendation with Personalized Attention
+
+### Deep Learning based Recommender System:
+- (TOIS2017)Version-Aware Rating Prediction for Mobile App Recommendation
+- (AAAI2020)Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation
+- Multi-Interest Network with Dynamic Routing for Recommendation at Tmall
+- (IJCAI2018)DELF: A Dual-Embedding based Deep Latent Factor Model for Recommendation
 - (SIGIR2018)An Attribute-aware Neural Attentive Model for Next Basket Recommendation
 - (CIKM2018)Local and Global Information Fusion for Top-N Recommendation in Heterogeneous Information Network
 - (KDD2018)Leveraging Meta-path based Context for Top-N Recommendation with A Neural Co-Attention Model
 - (TOIS2019)Deep Item-based Collaborative Filtering for Top-N Recommendation
-
-### Deep Learning based Recommender System:
-- (TOIS2017)Version-Aware Rating Prediction for Mobile App Recommendation
-- Rich-Item Recommendations for Rich-Users via GCNN: Exploiting Dynamic and Static Side Information
-- (AAAI2020)Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation
-- Multi-Interest Network with Dynamic Routing for Recommendation at Tmall
-- (IJCAI2018)DELF: A Dual-Embedding based Deep Latent Factor Model for Recommendation
 - (WSDM2019)Gated Attentive-Autoencoder for Content-Aware Recommendation
-- (SIGIR2019)NRPA: Neural Recommendation with Personalized Attention
-- (KDD2019)NPA: Neural News Recommendation with Personalized Attention
-- (AAAI2020)Multi-Component Graph Convolutional Collaborative Filtering
-- (IPM2020)Graph neural news recommendation with long-term and short-term interest modeling
-- (AAAI2020)Revisiting Graph based Collaborative Filtering : A Linear Residual Graph Convolutional Network Approach
+- (IJCAI2019)Deep Adversarial Social Recommendation
+- (WSDM2020)LARA Attribute-to-feature Adversarial Learning for New-item Recommendation
+- (WSDM2020)Adversarial Learning to Compare Self-Attentive Prospective Customer Recommendation in Location based Social Networks
 
+### Evaluation of Recommender System
+- (RecSys2018)Explore, exploit, and explain personalizing explainable recommendations with bandits
+- (RecSys2018)Providing explanations for recommendations in reciprocal environments
+- (RecSys2018)Why I like it multi-task learning for recommendation and explanation
+- (RecSys2018)Enhancing structural diversity in social network by Recommending Weak Ties 
+- (CHI2018)Flexible Learning with Semantic Visual Exploration and Sequence-Based Recommendation of MOOC Videos
+- (IUI2019)Personalized Explanations for Hybrid Recommender Systems
+- (RecSys2019)Explaining and Exploring Job Recommendations: a User-driven Approach for Interacting with Knowledge-based Job Recommender Systems
+- (CHI2019)VizML A Machine Learning Approach to visualization recommendation
+- (RecSys2019)Efficient Privacy Preserving Recommendations based on Social Graphs
+- (UMAP2019)Justifying Recommendations through Aspect-based Sentiment Analysis of Users’ Reviews
+- (UMUAI2019)Affective recommender systems in online news industry, how emotions influence reading chocies
 
 
 ### CTR Prediction
