@@ -46,9 +46,13 @@
 - (AAAI2020)Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation
 - Multi-Interest Network with Dynamic Routing for Recommendation at Tmall
 - (IJCAI2018)DELF: A Dual-Embedding based Deep Latent Factor Model for Recommendation
+- (WSDM2019)Gated Attentive-Autoencoder for Content-Aware Recommendation
+- (SIGIR2019)NRPA: Neural Recommendation with Personalized Attention
+- (KDD2019)NPA: Neural News Recommendation with Personalized Attention
 - (AAAI2020)Multi-Component Graph Convolutional Collaborative Filtering
 - (IPM2020)Graph neural news recommendation with long-term and short-term interest modeling
 - (AAAI2020)Revisiting Graph based Collaborative Filtering : A Linear Residual Graph Convolutional Network Approach
+
 
 
 ### CTR Prediction
