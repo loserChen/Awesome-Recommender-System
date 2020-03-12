@@ -1,4 +1,5 @@
 # Awesome-Recommender-System
+This repo will be kept updated in each week to catch up with the direction of recommender system. There is no doubt to star this repo to watch which papers are updated each week, which helps you reduce your time wasting on searching for papers of high quality in a few top conferences and journals.
 
 ### POI Recommender System:
 - (IJCAI2017)Category-aware Next Point-of-Interest Recommendation via Listwise Bayesian Personalized Ranking
