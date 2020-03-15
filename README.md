@@ -34,13 +34,14 @@ This repo will be kept updated in each week to catch up with the direction of re
 ### Graph-based Recommender System:
 - Rich-Item Recommendations for Rich-Users via GCNN: Exploiting Dynamic and Static Side Information
 - (KDD2018)Graph Convolutional Matrix Completion
-- (WWW2019)Collaborative Similarity Embedding for Recommender Systems
+- (MM2019)MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video
 - (TKDE2019)Heterogeneous Information Network Embedding for Recommendation
 - (SIGIR2019)SocialGCN An Efficient Graph Convolutional Network
 - (SIGIR2019)Neural Graph Collaborative Filtering
 - (WSDM2019)Session-based Social Recommendation via Dynamic Graph Attention Networks
 - (AAAI2019)Explainable Reasoning over Knowledge Graphs for Recommendation
 - (WWW2019)Graph Neural Networks for Social Recommendation
+- (WWW2019)Collaborative Similarity Embedding for Recommender Systems
 - (WWW2019)Unifying Knowledge Graph Learning and Recommendation Towards a Better Understanding of User Preferences
 - (KDD2019)KGAT Knowledge Graph Attention Network for Recommendation
 - (IJCAI2019)Unified Embedding Model over Heterogeneous Information Network for Personalized Recommendation
