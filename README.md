@@ -14,6 +14,7 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (IJCAI2018)Sequential Recommender System based on Hierarchical Attention Network
 - (ICDM2018)Self-Attentive Sequential Recommendation
 - (SIGIR2019)A Long-Short Demands-Aware Model for Next-Item Recommendation
+- (SIGIR2019)Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction
 - (CIKM2019)Session-Based Social Recommendation via Dynamic Graph Attention Networks
 - (WSDM2019)Taxonomy-Aware Multi-Hop Reasoning Networks for Sequential Recommendation
 - (WSDM2019)Session-based Social Recommendation via Dynamic Graph Attention Networks
@@ -28,6 +29,7 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (IJCAI2019)Feature-level Deeper Self-Attention Network for Sequential Recommendation
 - (WWW2020)Beyond Clicks: Modeling Multi-Relational Item Graph for Session-based Target Behavior Prediction
 - (WWW2020)Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation
+- (WWW2020) Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation
 - (WSDM2020)Time Interval Aware Self-Attention for Sequential Recommendation
 - (WSDM2020)Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling
 
@@ -45,11 +47,16 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (WWW2019)Unifying Knowledge Graph Learning and Recommendation Towards a Better Understanding of User Preferences
 - (KDD2019)KGAT Knowledge Graph Attention Network for Recommendation
 - (IJCAI2019)Unified Embedding Model over Heterogeneous Information Network for Personalized Recommendation
+- (TKDE2019)Deep Collaborative Filtering with Multi-Aspect Information in Heterogeneous Networks
+- (CIKM2019)Rethinking the ItemOrder in Session-based Recommendation with Graph Neural Networks
 - (AAAI2020)Multi-Component Graph Convolutional Collaborative Filtering
 - (IPM2020)Graph neural news recommendation with long-term and short-term interest modeling
 - (AAAI2020)Revisiting Graph based Collaborative Filtering : A Linear Residual Graph Convolutional Network Approach
 - (AAAI2020)Memory Augmented Graph Neural Networks for Sequential Recommendation
 - (WWW2020)Beyond Clicks: Modeling Multi-Relational Item Graph for Session-based Target Behavior Prediction
+- (WSDM2020)DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks
+- Modelling High-Order Social Relations for Item Recommendation
+
 
 ### Review-based Recommender System:
 - (WSDM2017)Joint Deep Modeling of Users and Items Using Reviews for Recommendation
@@ -65,10 +72,11 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (WWW2019)From Free-text User Reviews to Product Recommendation using Paragraph Vectors and Matrix Factorization
 - (SIGIR2019)NRPA: Neural Recommendation with Personalized Attention
 - (KDD2019)NPA: Neural News Recommendation with Personalized Attention
+- (IJCAI2019)A Review-Driven Neural Model for Sequential Recommendation
 
 ### Deep Learning based Recommender System:
 - (TOIS2017)Version-Aware Rating Prediction for Mobile App Recommendation
-- (AAAI2020)Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation
+- (KDD2018)Multi-Pointer Co-Attention Networks for Recommendation
 - Multi-Interest Network with Dynamic Routing for Recommendation at Tmall
 - (IJCAI2018)DELF: A Dual-Embedding based Deep Latent Factor Model for Recommendation
 - (SIGIR2018)An Attribute-aware Neural Attentive Model for Next Basket Recommendation
@@ -76,9 +84,11 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (KDD2018)Leveraging Meta-path based Context for Top-N Recommendation with A Neural Co-Attention Model
 - (TOIS2019)Deep Item-based Collaborative Filtering for Top-N Recommendation
 - (WSDM2019)Gated Attentive-Autoencoder for Content-Aware Recommendation
+- (SDM2019)Multiplex Memory Network for Collaborative Filtering
 - (IJCAI2019)Deep Adversarial Social Recommendation
 - (WSDM2020)LARA Attribute-to-feature Adversarial Learning for New-item Recommendation
 - (WSDM2020)Adversarial Learning to Compare Self-Attentive Prospective Customer Recommendation in Location based Social Networks
+- (AAAI2020)Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation
 
 ### Evaluation of Recommender System
 - (RecSys2018)Explore, exploit, and explain personalizing explainable recommendations with bandits
