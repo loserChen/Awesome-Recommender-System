@@ -30,6 +30,7 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (WWW2020)Beyond Clicks: Modeling Multi-Relational Item Graph for Session-based Target Behavior Prediction
 - (WWW2020)Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation
 - (WWW2020) Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation
+- (WWW2020)Attentive Sequential Models of Latent Intent for Next Item Recommendation
 - (WSDM2020)Time Interval Aware Self-Attention for Sequential Recommendation
 - (WSDM2020)Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling
 
@@ -54,6 +55,7 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (AAAI2020)Revisiting Graph based Collaborative Filtering : A Linear Residual Graph Convolutional Network Approach
 - (AAAI2020)Memory Augmented Graph Neural Networks for Sequential Recommendation
 - (WWW2020)Beyond Clicks: Modeling Multi-Relational Item Graph for Session-based Target Behavior Prediction
+- (WWW2020)Graph Enhanced Representation Learning for News Recommendation
 - (WSDM2020)DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks
 - Modelling High-Order Social Relations for Item Recommendation
 
@@ -64,15 +66,16 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (KDD2018)Multi-Pointer Co-Attention Networks for Recommendation
 - (RecSys2018)Why I like it Multi-task Learning for Recommendation and Explanation
 - (WWW2018)Neural attentional rating regression with review-level explanations
-- (IJCAI2019)Co-Attentive Multi-Task Learning for Explainable Recommendation
-- (KDD2019)DAML Dual Attention Mutual Learning between Ratings and Reviews for recommendation
 - (NAACL-HIT2019)Hierarchical User and Item Representation with Three-Tier Attention for Recommendation
 - (RecSys2019)A Generative Model for Review-Based Recommendations
 - (UMAP2019)Justifying Recommendations through Aspect-based Sentiment Analysis of Users’ Reviews
 - (WWW2019)From Free-text User Reviews to Product Recommendation using Paragraph Vectors and Matrix Factorization
 - (SIGIR2019)NRPA: Neural Recommendation with Personalized Attention
+- (KDD2019)DAML Dual Attention Mutual Learning between Ratings and Reviews for recommendation
 - (KDD2019)NPA: Neural News Recommendation with Personalized Attention
 - (IJCAI2019)A Review-Driven Neural Model for Sequential Recommendation
+- (IJCAI2019)Neural News Recommendation with Attentive Multi-View Learning
+- (IJCAI2019)Co-Attentive Multi-Task Learning for Explainable Recommendation
 
 ### Deep Learning based Recommender System:
 - (TOIS2017)Version-Aware Rating Prediction for Mobile App Recommendation
@@ -84,11 +87,15 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (KDD2018)Leveraging Meta-path based Context for Top-N Recommendation with A Neural Co-Attention Model
 - (TOIS2019)Deep Item-based Collaborative Filtering for Top-N Recommendation
 - (WSDM2019)Gated Attentive-Autoencoder for Content-Aware Recommendation
+- (WWW2019)Towards Neural Mixture Recommender for Long Range Dependent User Sequences
+- (WWW2019)Feature generation by convolutional neural network for click-through rate prediction
 - (SDM2019)Multiplex Memory Network for Collaborative Filtering
 - (IJCAI2019)Deep Adversarial Social Recommendation
+- (TKDE2020)A 2-GCN: An Attribute-aware Attentive GCN Model for Recommendation
 - (WSDM2020)LARA Attribute-to-feature Adversarial Learning for New-item Recommendation
 - (WSDM2020)Adversarial Learning to Compare Self-Attentive Prospective Customer Recommendation in Location based Social Networks
 - (AAAI2020)Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation
+- (WWW2020)Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation
 
 ### Evaluation of Recommender System
 - (RecSys2018)Explore, exploit, and explain personalizing explainable recommendations with bandits
