@@ -23,6 +23,7 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (KDD2019)Hierarchical Gating Networks for Sequential Recommendation
 - (KDD2019)POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion
 - (PAKDD2019)A Novel Hybrid Sequential Model for Review-Based Rating Prediction
+- (MM2019)Explainable Interaction-driven User Modeling over Knowl-edge Graph for Sequential Recommendation
 - (IS2019)GPS: Factorized group preference-based similarity models for sparse sequential recommendation
 - (CIKM2019)CosRec: 2D Convolutional Neural Networks for Sequential Recommendation
 - (IJCAI2019)Dynamic Item Block and Prediction Enhancing Block for Sequential Recommendation
@@ -33,6 +34,7 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (WWW2020)Attentive Sequential Models of Latent Intent for Next Item Recommendation
 - (WSDM2020)Time Interval Aware Self-Attention for Sequential Recommendation
 - (WSDM2020)Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling
+- (IJCAI2020)Deep Feedback Network for Recommendation
 
 ### Graph-based Recommender System:
 - Rich-Item Recommendations for Rich-Users via GCNN: Exploiting Dynamic and Static Side Information
@@ -50,6 +52,7 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (IJCAI2019)Unified Embedding Model over Heterogeneous Information Network for Personalized Recommendation
 - (TKDE2019)Deep Collaborative Filtering with Multi-Aspect Information in Heterogeneous Networks
 - (CIKM2019)Rethinking the ItemOrder in Session-based Recommendation with Graph Neural Networks
+- (SDM2020)Stacked Mixed-Order Graph Convolutional Networks for Collaborative Filtering
 - (AAAI2020)Multi-Component Graph Convolutional Collaborative Filtering
 - (IPM2020)Graph neural news recommendation with long-term and short-term interest modeling
 - (AAAI2020)Revisiting Graph based Collaborative Filtering : A Linear Residual Graph Convolutional Network Approach
@@ -58,6 +61,9 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (WWW2020)Graph Enhanced Representation Learning for News Recommendation
 - (WSDM2020)DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks
 - Modelling High-Order Social Relations for Item Recommendation
+- (KDD2020)M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems
+
+
 
 
 ### Review-based Recommender System:
@@ -96,6 +102,7 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (WSDM2020)Adversarial Learning to Compare Self-Attentive Prospective Customer Recommendation in Location based Social Networks
 - (AAAI2020)Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation
 - (WWW2020)Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation
+- (KDD2020)Controllable Multi-Interest Framework for Recommendation
 
 ### Evaluation of Recommender System
 - (RecSys2018)Explore, exploit, and explain personalizing explainable recommendations with bandits
@@ -121,7 +128,11 @@ This repo will be kept updated in each week to catch up with the direction of re
 - Real-time Personalization using Embeddings for Search Ranking at Airbnb
 - FiBiNET: Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction
 - HoAFM: A High-order Attentive Factorization Machine for CTR Prediction
-- (AAAI2020)Deep Time-Stream Framework for Click-Through Rate Prediction by Tracking Interest Evolution
+- (WWW2019)Feature generation by convolutional neural network for click-through rate prediction
 - (MM2019)Time-aware Session Embedding for Click-Through-Rate Prediction
+- (DLP-KDD2019)Res-embedding for Deep Learning Based Click-rough Rate Prediction Modeling
+- (AAAI2020)Deep Time-Stream Framework for Click-Through Rate Prediction by Tracking Interest Evolution
 
+### Review
+- Graph Learning Approaches to Recommender Systems: A Review
 
