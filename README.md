@@ -9,6 +9,15 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (IJCAI2019)Geo-ALM: POI Recommendation by Fusing Geographical Information and Adversarial Learning Mechanism
 - (WWW2019)Revisiting User Mobility and Social Relationships in LBSNs: A Hypergraph Embedding Approach
 - (ICDE2019)A Joint Context-Aware Embedding for Trip Recommendations
+- (SIGIR2020)HME: A Hyperbolic Metric Embedding Approach for Next-POI Recommendation
+- (SIGIR2020)Spatial Object Recommendation with Hints: When Spatial Granularity Matters
+- (KDD2020)Geography-Aware Sequential Location Recommendation
+- (CIKM2020)Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation
+- (CIKM2020)STP-UDGAT Spatial-Temporal-Preference User Dimensional Graph Attention Network for Next POI Recommendation
+- (WWW2021)STAN: Spatio-Temporal Attention Network for next Point-of-Interest Recommendation
+- (WWW2021)Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching
+
+
 ### Sequential Recommender System:
 - (WSDM2017)Recurrent Recommender Networks
 - (IJCAI2018)Sequential Recommender System based on Hierarchical Attention Network
@@ -35,6 +44,37 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (WSDM2020)Time Interval Aware Self-Attention for Sequential Recommendation
 - (WSDM2020)Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling
 - (IJCAI2020)Deep Feedback Network for Recommendation
+- (SIGIR2020)Sequential Recommendation with Self-attentive Multi-adversarial Network
+- (SIGIR2020)KERL: A Knowledge-Guided Reinforcement Learning Model for Sequential Recommendation
+- (SIGIR2020)Modeling Personalized Item Frequency Information for Next-basket Recommendation
+- (SIGIR2020)Incorporating User Micro-behaviors and Item Knowledge into Multi-task Learning for Session-based Recommendation
+- (SIGIR2020)GAG: Global Attributed Graph Neural Network for Streaming Session-based Recommendation
+- (SIGIR2020)Next-item Recommendation with Sequential Hypergraphs
+- (SIGIR2020)A General Network Compression Framework for Sequential Recommender Systems
+- (SIGIR2020)Make It a Chorus: Knowledge- and Time-aware Item Modeling for Sequential Recommendation
+- (SIGIR2020)Global Context Enhanced Graph Neural Networks for Session-based Recommendation
+- (SIGIR2020)Self-Supervised Reinforcement Learning for Recommender Systems
+- (SIGIR2020)Time Matters: Sequential Recommendation with Complex Temporal Information
+- (KDD2020)Controllable Multi-Interest Framework for Recommendation
+- (KDD2020)Disentangled Self-Supervision in Sequential Recommenders
+- (KDD2020)Handling Information Loss of Graph Neural Networks for Session-based Recommendation
+- (CIKM2020)Improving End-to-End Sequential Recommendations with Intent-aware Diversification
+- (CIKM2020)Quaternion-based self-Attentive Long Short-term User Preference Encoding for Recommendation
+- (CIKM2020)Sequential Recommender via Time-aware Attentive Memory Network
+- (CIKM2020)Star Graph Neural Networks for Session-based Recommendation
+- (AAAI2021)Dynamic Memory Based Attention Network for Sequential Recommendation
+- (AAAI2021)Noninvasive Self-Attention for Side Information Fusion in Sequential Recommendation
+- (AAAI2021)Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation
+- (WSDM2021)An Efficient and Effective Framework for Session-based Social Recommendation
+- (WSDM2021)Sparse-Interest Network for Sequential Recommendation
+- (WWW2021)Dynamic Embeddings for Interaction Prediction
+- (WWW2021)Session-aware Linear Item-Item Models for Session-based Recommendation
+- (WWW2021)RetaGNN: Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation
+- (WWW2021)Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation
+- (WWW2021)Future-Aware Diverse Trends Framework for Recommendation
+- (WWW2021)DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce
+- (WWW2021)Linear-Time Self Attention with Codeword Histogram for Efficient Recommendation
+
 
 ### Graph-based Recommender System:
 - Rich-Item Recommendations for Rich-Users via GCNN: Exploiting Dynamic and Static Side Information
@@ -53,20 +93,24 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (TKDE2019)Deep Collaborative Filtering with Multi-Aspect Information in Heterogeneous Networks
 - (CIKM2019)Rethinking the ItemOrder in Session-based Recommendation with Graph Neural Networks
 - (SDM2020)Stacked Mixed-Order Graph Convolutional Networks for Collaborative Filtering
-- (AAAI2020)Multi-Component Graph Convolutional Collaborative Filtering
 - (IPM2020)Graph neural news recommendation with long-term and short-term interest modeling
 - (AAAI2020)Revisiting Graph based Collaborative Filtering : A Linear Residual Graph Convolutional Network Approach
 - (AAAI2020)Memory Augmented Graph Neural Networks for Sequential Recommendation
+- (AAAI2020)Multi-Component Graph Convolutional Collaborative Filtering
 - (WWW2020)Beyond Clicks: Modeling Multi-Relational Item Graph for Session-based Target Behavior Prediction
 - (WWW2020)Graph Enhanced Representation Learning for News Recommendation
 - (WSDM2020)DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks
 - Modelling High-Order Social Relations for Item Recommendation
 - (KDD2020)M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems
+- (SIGIR2020)LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation 
+- (SIGIR2020)Neighbor Interaction Aware Graph Convolution Networks for Recommendation
+- (KDD2020)A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks
+- (KDD2020)Dual Channel Hypergraph Collaborative Filtering
+- (WWW2021)HGCF: Hyperbolic Graph Convolution Networks for Collaborative Filtering
+- (WWW2021)Interest-aware Message-Passing GCN for Recommendation
 
 
-
-
-### Review-based Recommender System:
+### Review-based/News/Text-aware Recommender System:
 - (WSDM2017)Joint Deep Modeling of Users and Items Using Reviews for Recommendation
 - (CIKM2018)ANR:Aspect-based Neural Recommender
 - (KDD2018)Multi-Pointer Co-Attention Networks for Recommendation
@@ -82,7 +126,14 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (IJCAI2019)A Review-Driven Neural Model for Sequential Recommendation
 - (IJCAI2019)Neural News Recommendation with Attentive Multi-View Learning
 - (IJCAI2019)Co-Attentive Multi-Task Learning for Explainable Recommendation
-
+- (RecSys2020)KRED:Knowledge-Aware Document Representation for News Recommendations
+- (RecSys2020)TAFA: Two-headed Attention Fused Autoencoder for Context-Aware Recommendations
+- (CIKM2020)News Recommendation with Topic-Enriched Knowledge Graphs
+- (CIKM2020)Set-Sequence-Graph A Multi-View Approach Towards Exploiting Reviews for Recommendation
+- (CIKM2020)TPR: Text-aware Preference Ranking for Recommender Systems
+- (WWW2021)The Interaction between Political Typology and Filter Bubbles in News Recommendation Algorithms
+- (WWW2021)Leveraging Review Properties for Effective Recommendation
+- 
 ### Deep Learning based Recommender System:
 - (TOIS2017)Version-Aware Rating Prediction for Mobile App Recommendation
 - (KDD2018)Multi-Pointer Co-Attention Networks for Recommendation
@@ -102,7 +153,6 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (WSDM2020)Adversarial Learning to Compare Self-Attentive Prospective Customer Recommendation in Location based Social Networks
 - (AAAI2020)Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation
 - (WWW2020)Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation
-- (KDD2020)Controllable Multi-Interest Framework for Recommendation
 
 ### Evaluation of Recommender System
 - (RecSys2018)Explore, exploit, and explain personalizing explainable recommendations with bandits
@@ -132,6 +182,10 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (MM2019)Time-aware Session Embedding for Click-Through-Rate Prediction
 - (DLP-KDD2019)Res-embedding for Deep Learning Based Click-rough Rate Prediction Modeling
 - (AAAI2020)Deep Time-Stream Framework for Click-Through Rate Prediction by Tracking Interest Evolution
+- (AAAI2021)Detecting Beneficial Feature Interactions for Recommender Systems
+- (WSDM2021)DeepLight: Deep Lightweight Feature Interactions for Accelerating CTR Predictions in Ad Serving
+- (WSDM2021)Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction
+- (WWW2021)FM^2: Field-matrixed Factorization Machines for CTR Prediction
 
 ### Review
 - Graph Learning Approaches to Recommender Systems: A Review
