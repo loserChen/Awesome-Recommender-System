@@ -37,6 +37,7 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (CIKM2019)CosRec: 2D Convolutional Neural Networks for Sequential Recommendation
 - (IJCAI2019)Dynamic Item Block and Prediction Enhancing Block for Sequential Recommendation
 - (IJCAI2019)Feature-level Deeper Self-Attention Network for Sequential Recommendation
+- (MM2019)Content-based video relevance prediction with multi-view multi-level deep interest network
 - (WWW2020)Beyond Clicks: Modeling Multi-Relational Item Graph for Session-based Target Behavior Prediction
 - (WWW2020)Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation
 - (WWW2020) Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation
@@ -74,7 +75,9 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (WWW2021)Future-Aware Diverse Trends Framework for Recommendation
 - (WWW2021)DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce
 - (WWW2021)Linear-Time Self Attention with Codeword Histogram for Efficient Recommendation
-
+- (CIKM2021)Learning Dual Dynamic Representations on Time-Sliced User-Item Interaction Graphs for Sequential Recommendation
+- (TOIS2021)Learning from substitutable and complementary relations for graph-based sequential product recommendation
+- (arxiv) MC^2-SF: Slow-Fast Learning for Mobile-Cloud Collaborative Recommendation
 
 ### Graph-based Recommender System:
 - Rich-Item Recommendations for Rich-Users via GCNN: Exploiting Dynamic and Static Side Information
@@ -149,7 +152,7 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (WWW2019)Feature generation by convolutional neural network for click-through rate prediction
 - (SDM2019)Multiplex Memory Network for Collaborative Filtering
 - (IJCAI2019)Deep Adversarial Social Recommendation
-- (TKDE2020)A 2-GCN: An Attribute-aware Attentive GCN Model for Recommendation
+- (TKDE2020)A^2-GCN: An Attribute-aware Attentive GCN Model for Recommendation
 - (WSDM2020)LARA Attribute-to-feature Adversarial Learning for New-item Recommendation
 - (WSDM2020)Adversarial Learning to Compare Self-Attentive Prospective Customer Recommendation in Location based Social Networks
 - (AAAI2020)Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation
