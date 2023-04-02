@@ -111,6 +111,7 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (KDD2020)Dual Channel Hypergraph Collaborative Filtering
 - (WWW2021)HGCF: Hyperbolic Graph Convolution Networks for Collaborative Filtering
 - (WWW2021)Interest-aware Message-Passing GCN for Recommendation
+- (WSDM2022)A Practical Two-stage Ranking Framework for Cross-market Recommendation
 
 
 ### Review-based/News/Text-aware Recommender System:
