@@ -78,6 +78,7 @@ This repo will be kept updated in each week to catch up with the direction of re
 - (CIKM2021)Learning Dual Dynamic Representations on Time-Sliced User-Item Interaction Graphs for Sequential Recommendation
 - (TOIS2021)Learning from substitutable and complementary relations for graph-based sequential product recommendation
 - (arxiv) MC^2-SF: Slow-Fast Learning for Mobile-Cloud Collaborative Recommendation
+- (arxiv) Pattern-wise Transparent Sequential Recommendation
 
 ### Graph-based Recommender System:
 - Rich-Item Recommendations for Rich-Users via GCNN: Exploiting Dynamic and Static Side Information
